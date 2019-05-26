@@ -1,11 +1,11 @@
 {
   "name": "voxel-stitch",
   "description": "atlaspack block textures from voxel-registry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "stitch.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:deathcap/voxel-stitch.git"
+    "url": "git@github.com:georgzoeller/voxel-stitch.git"
   },
   "keywords": [
     "atlas",
